@@ -1,0 +1,34 @@
+{
+  "spørgsmål": [
+    {
+      "spørgsmål": "Hvilket SQL-nøgleord bruges til at hente data fra en database?",
+      "svarmuligheder": ["SELECT", "FETCH", "GET", "RETRIEVE"],
+      "rigtigt_svar": "SELECT",
+      "feedback": "I SQL bruges 'SELECT' nøgleordet til at hente data fra en database."
+    },
+    {
+      "spørgsmål": "Hvordan specificerer man en betingelse i SQL?",
+      "svarmuligheder": ["IF", "WHERE", "CASE", "CONDITION"],
+      "rigtigt_svar": "WHERE",
+      "feedback": "I SQL bruges 'WHERE' nøgleordet til at specificere en betingelse for, hvilke rækker der skal hentes."
+    },
+    {
+      "spørgsmål": "Hvilket SQL-nøgleord bruges til at ændre eksisterende data i en tabel?",
+      "svarmuligheder": ["CHANGE", "MODIFY", "UPDATE", "ALTER"],
+      "rigtigt_svar": "UPDATE",
+      "feedback": "I SQL bruges 'UPDATE' nøgleordet til at ændre eksisterende data i en tabel."
+    },
+    {
+      "spørgsmål": "Hvordan sletter man data fra en tabel i SQL?",
+      "svarmuligheder": ["REMOVE", "DELETE", "DROP", "ERASE"],
+      "rigtigt_svar": "DELETE",
+      "feedback": "I SQL bruges 'DELETE' nøgleordet til at slette data fra en tabel."
+    },
+    {
+      "spørgsmål": "Hvilket nøgleord bruges til at tilføje nye rækker til en tabel i SQL?",
+      "svarmuligheder": ["ADD", "INSERT", "APPEND", "INCLUDE"],
+      "rigtigt_svar": "INSERT",
+      "feedback": "I SQL bruges 'INSERT' nøgleordet til at tilføje nye rækker til en tabel."
+    }
+  ]
+}
